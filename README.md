@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-hot-topic-guoxue-bridge)
+
 **English**: Hot-topic × traditional-culture angle filter — a four-test grafting method (natural fit / cultural relevance / time window / risk check), templates for attaching a classical-culture angle to trending news, a 48-hour sprint rhythm, and cautionary case studies.
 
 ---
